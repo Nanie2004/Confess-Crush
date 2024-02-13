@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Thích vừa vừa',
     question: 'Vậy cậu có thấy người chỉnh cái web này đẹp trai ko ',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'đẹp trai đỉnh cao nguyện để cậu bao nuôi hehe',
+    reply: 'đẹp trai đỉnh cao nguyện để cậu bao nuôi hehe ',
     mess: 'Uây tớ biết mà, vậy cậu bao nuôi tớ nhé hehehehe',
     messDesc: 'Rất cảm ơn cậu nha',
     btnAccept: 'hehe ân đây để hiện in4 người cậu bao nuôi',
